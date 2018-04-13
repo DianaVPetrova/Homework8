@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FoodFacts</string>
+    <string name="enter_product_code">Enter productItem code</string>
+    <string name="enter_valid_code">Please enter a valid code</string>
 </resources>
